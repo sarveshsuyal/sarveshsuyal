@@ -155,9 +155,6 @@ I enjoy engineering practical solutions, exploring intelligent systems, and crea
 
 <img width="75%" src="https://streak-stats.demolab.com?user=sarveshsuyal&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak"/>
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshsuyal&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" alt="Activity graph"/>
 
 </div>
 
