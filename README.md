@@ -22,25 +22,6 @@
 
 <div align="center">
 
-### `01 // SYSTEM_IDENTITY`
-
-**A developer focused on building what comes next.**
-
-</div>
-
-```text
-┌───────────────────────────────────────────────────┐
-│              DEVELOPER PROFILE                    │
-├───────────────────────────────────────────────────┤
-│  NAME       : SARVESH SUYAL                        │
-│  EDUCATION  : COMPUTER SCIENCE ENGINEERING         │
-│  FOCUS      : ARTIFICIAL INTELLIGENCE & ML         │
-│  DOMAIN     : FULL STACK / CLOUD / AI             │
-│  MINDSET    : BUILD • LEARN • INNOVATE             │
-│  STATUS     : OPEN TO OPPORTUNITIES                │
-└───────────────────────────────────────────────────┘
-```
-
 ### 👨‍💻 The Developer Behind The Code
 
 I'm Sarvesh Suyal, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
