@@ -1,48 +1,67 @@
  <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,40:243B80,75:7046A8,100:00C9FF&height=220&section=header&text=SARVESH%20SUYAL&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=17"/>
+<!-- ═══════════════ ANIMATED HERO ═══════════════ -->
 
-<!-- TYPING ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,25:172554,55:49358A,80:2563EB,100:06B6D4&height=250&section=header&text=SARVESH%20SUYAL&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=17&descAlignY=58&descColor=BAE6FD"/>
+
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sarvesh+Suyal+%F0%9F%91%8B;AI%2FML+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Building+Ideas+Into+Reality+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Hey%2C+I'm+Sarvesh+Suyal+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing animation"/>
 </a>
 
 <br/>
 
 <a href="https://suyalsarvesh.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit%20Website-2563EB?style=for-the-badge&labelColor=0B1020"/>
 </a>
 <a href="mailto:sarvesh112k@gmail.com">
-<img src="https://img.shields.io/badge/Hire%20Me-Let's%20Connect-00C9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_HIRE%20ME-Let's%20Connect-06B6D4?style=for-the-badge&labelColor=0B1020"/>
 </a>
 <a href="https://github.com/sarveshsuyal">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sarveshsuyal&label=PROFILE%20VIEWS&color=7046A8&style=for-the-badge" alt="Profile views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sarveshsuyal&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
 ## 👨‍💻 About Me
 
-Hello! I'm **Sarvesh Suyal**, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+```yaml
+name: Sarvesh Suyal
+role: Computer Science Engineering Student
+specialization: Artificial Intelligence & Machine Learning
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Cloud Computing
+currently: Learning, Building & Exploring
+looking_for: Internships, Collaborations & Opportunities
+```
 
-I'm passionate about creating practical applications, exploring intelligent systems, and developing solutions that combine creativity with technology.
+I'm a passionate developer who loves transforming ideas into practical applications. I enjoy exploring new technologies, solving challenging problems, and building intelligent solutions.
 
-- 🎓 Computer Science Engineering student.
-- 🧠 Interested in Artificial Intelligence & Machine Learning.
-- 💻 Full Stack Developer with experience across frontend and backend technologies.
-- ☁️ Exploring cloud computing and scalable infrastructure.
-- 🔍 Interested in computer vision, automation, and data-driven applications.
-- 🚀 Constantly learning, experimenting, and building.
-- 🤝 Open to collaboration, internships, and exciting development opportunities.
+- 🎓 CSE student specializing in AI & ML.
+- 🤖 Exploring intelligent systems and computer vision.
+- 💻 Developing full-stack applications.
+- ☁️ Learning AWS and cloud infrastructure.
+- 🧩 Interested in DSA and software engineering.
+- 🤝 Open to collaborations and exciting opportunities.
 
-> "Great things are built one line of code at a time."
+> <i>"Code. Create. Innovate. Repeat."</i>
 
 ---
+
+<!-- ═══════════════ SKILLS ═══════════════ -->
 
 ## ⚡ Technical Arsenal
 
@@ -58,18 +77,22 @@ I'm passionate about creating practical applications, exploring intelligent syst
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,html,css,tailwind&theme=dark"/>
 </p>
 
-**Additional:** REST APIs
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
 ### 🧠 Machine Learning & Computer Vision
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pandas,numpy&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark"/>
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-00A6A6?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-674EA7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-7046A8?style=for-the-badge"/>
 </p>
 
 ### ☁️ Cloud & Database Infrastructure
@@ -79,11 +102,11 @@ I'm passionate about creating practical applications, exploring intelligent syst
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### ⚙️ Developer Tools & Libraries
@@ -93,45 +116,51 @@ I'm passionate about creating practical applications, exploring intelligent syst
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tesseract.js-OCR-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tesseract.js-OCR-3776AB?style=flat-square"/>
 </p>
 
 ### 🎓 Core Computer Science
 
 <p align="left">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7046A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-7046A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-0E7490?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+## 🚀 Projects & Development
 
 <div align="center">
 
 <a href="https://github.com/sarveshsuyal?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-View%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://suyalsarvesh.vercel.app/">
-<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-7046A8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MY%20PORTFOLIO-Explore%20My%20Work-7046A8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-I enjoy developing projects involving:
+### Areas I Love Building In
 
-- 🤖 AI and Machine Learning applications.
-- 👁️ Computer Vision and image processing.
-- 🌐 Full Stack Web Applications.
-- ☁️ Cloud-based applications and infrastructure.
-- 📊 Data-driven tools and interactive dashboards.
+| Area | Focus |
+|---|---|
+| 🤖 AI & ML | Intelligent applications and predictive systems |
+| 👁️ Computer Vision | Image processing and visual recognition |
+| 🌐 Full Stack | Modern frontend and backend applications |
+| ☁️ Cloud | AWS infrastructure and deployment |
+| 📊 Data | Data processing and interactive dashboards |
 
 ---
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -141,74 +170,90 @@ I enjoy developing projects involving:
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshsuyal&theme=tokyonight" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshsuyal&theme=tokyonight" alt="GitHub Stats"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshsuyal&theme=tokyonight" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshsuyal&theme=tokyonight" alt="Repository Languages"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=sarveshsuyal&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshsuyal&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+---
+
+<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sarveshsuyal/sarveshsuyal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
+
+## 🎯 Currently Focusing On
+
+<div align="center">
+
+| 🚀 Goal | 📌 Focus |
+|:---|:---|
+| 🧠 AI & ML | Intelligent systems and computer vision |
+| 💻 Development | Building full-stack applications |
+| ☁️ Cloud | AWS and cloud architecture |
+| 🧩 DSA | Problem-solving and algorithms |
+| 🌱 Growth | Learning and creating impactful projects |
+
+</div>
+
+---
+
+<!-- ═══════════════ HIRE ME ═══════════════ -->
+
+## 🤝 Let's Connect & Build Something Amazing
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Open+to+Internships+%F0%9F%92%BC;Open+to+Collaborations+%F0%9F%A4%9D;Let's+Create+Something+Awesome+%F0%9F%9A%80" alt="Opportunities"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sarveshsuyal&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=00C9FF" alt="GitHub Streak"/>
+### 💼 AVAILABLE FOR OPPORTUNITIES
 
-</div>
+**Have an idea, project, internship, or collaboration in mind?**
 
-## 🐍 Contribution Snake
+**Let's talk!**
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sarveshsuyal/sarveshsuyal/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 📚 Improving problem-solving and DSA skills.
-- 🤖 Exploring machine learning and computer vision.
-- 🌐 Building full-stack applications.
-- ☁️ Learning more about AWS and cloud architecture.
-- 🚀 Creating projects that solve real-world problems.
-
----
-
-## 🤝 Let's Connect & Work Together
-
-<div align="center">
-
-### 💼 Open to Opportunities!
-
-Interested in working together, discussing projects, internships, or collaborations?
+<br/>
 
 <a href="mailto:sarvesh112k@gmail.com">
-<img src="https://img.shields.io/badge/HIRE%20ME-sarvesh112k%40gmail.com-00C9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT%20ME-sarvesh112k%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020"/>
 </a>
 
 <br/><br/>
 
 <a href="https://suyalsarvesh.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-7046A8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sarveshsuyal">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**📧 Email:** [sarvesh112k@gmail.com](mailto:sarvesh112k@gmail.com)
+**📧 Email:** sarvesh112k@gmail.com
 
 <br/>
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my profile!
 
-*Let's build something amazing together.*
+*Keep coding. Keep creating. Keep growing.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7046A8,100:080B16&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:2563EB,75:49358A,100:070B18&height=150&section=footer&animation=twinkling"/>
 
 </div>
