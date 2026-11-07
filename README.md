@@ -137,21 +137,25 @@ I enjoy developing projects involving:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarveshsuyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C9D1D9&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshsuyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshsuyal&theme=tokyonight" alt="GitHub Profile Summary"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sarveshsuyal&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshsuyal&theme=tokyonight" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshsuyal&theme=tokyonight" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarveshsuyal&bg_color=0d1117&color=7aa2f7&line=7046a8&point=00c9ff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshsuyal&theme=tokyonight" alt="Repository Languages"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshsuyal&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sarveshsuyal&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=00C9FF" alt="GitHub Streak"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
