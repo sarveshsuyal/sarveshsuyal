@@ -1,4 +1,4 @@
-i removed it and it was lookin to much beter                 <div align="center">
+             <div align="center">
 
 <!-- ═══ GALACTIC HERO ═══ -->
 
