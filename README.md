@@ -1,16 +1,25 @@
-      
 
-<!-- ═══ GALACTIC HERO ═══ -->
+<!-- ═══════════════ GALACTIC HERO ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:172554,45:312E81,70:6D28D9,100:06B6D4&text=SARVESH%20SUYAL&fontSize=65&fontColor=FFFFFF&fontAlignY=36&desc=CODE%20%7C%20INTELLIGENCE%20%7C%20INNOVATION&descSize=18&descAlignY=59&animation=twinkling"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=INITIALIZING+DEVELOPER+PROFILE...;HELLO%2C+I'M+SARVESH+SUYAL+%F0%9F%91%8B;AI%2FML+%7C+FULL+STACK+%7C+CLOUD;BUILDING+INTELLIGENT+APPLICATIONS;TRANSFORMING+IDEAS+INTO+REALITY;SYSTEM.STATUS+%3D+ALWAYS+LEARNING+%E2%9C%A8" alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:172554,45:312E81,70:6D28D9,100:06B6D4&text=SARVESH%20SUYAL&fontSize=65&fontColor=FFFFFF&fontAlignY=36&desc=CODE%20%7C%20INTELLIGENCE%20%7C%20INNOVATION&descSize=18&descAlignY=59&animation=twinkling" />
 
 <br/>
 
-<a href="https://suyalsarvesh.vercel.app/"><img src="https://img.shields.io/badge/◈_EXPLORE_PORTFOLIO-00C9FF?style=for-the-badge&labelColor=080B18"/></a>
-<a href="mailto:sarvesh112k@gmail.com"><img src="https://img.shields.io/badge/◈_HIRE_ME-7C3AED?style=for-the-badge&labelColor=080B18"/></a>
-<a href="https://github.com/sarveshsuyal"><img src="https://img.shields.io/badge/◈_GITHUB-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=080B18"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=INITIALIZING+DEVELOPER+PROFILE...;HELLO%2C+I%27M+SARVESH+SUYAL+%F0%9F%91%8B;AI%2FML+%7C+FULL+STACK+%7C+CLOUD;BUILDING+INTELLIGENT+APPLICATIONS;TRANSFORMING+IDEAS+INTO+REALITY;SYSTEM.STATUS+%3D+ALWAYS+LEARNING+%E2%9C%A8" alt="Animated introduction" />
+
+<br/><br/>
+
+<a href="https://suyalsarvesh.vercel.app/">
+<img src="https://img.shields.io/badge/◈_EXPLORE_PORTFOLIO-00C9FF?style=for-the-badge&labelColor=080B18"/>
+</a>
+<a href="mailto:sarvesh112k@gmail.com">
+<img src="https://img.shields.io/badge/◈_HIRE_ME-7C3AED?style=for-the-badge&labelColor=080B18"/>
+</a>
+<a href="https://github.com/sarveshsuyal">
+<img src="https://img.shields.io/badge/◈_GITHUB-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=080B18"/>
+</a>
 
 <br/><br/>
 
@@ -21,6 +30,7 @@
 ---
 
 <div align="center">
+</div>
 
 ### 👨‍💻 The Developer Behind The Code
 
